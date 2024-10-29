@@ -1,1 +1,3 @@
-# uk.co.nfocus.EcommerceProject
+# EcommerceProject
+
+This is my final project. 
